@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc/
+
+# Environment variables
+.env
+
+# Database
+*.db
+data/
+
+# Generated output
+reports/
+
+# Keep folder structure
+!.gitkeep
