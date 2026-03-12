@@ -1,4 +1,4 @@
-# LLM Red-Team-Experiments
+# LLM Red Team Experiment
 
 An automated framework for testing large language model deployments against known attack vectors, logging results, and generating structured security reports.
 
@@ -31,7 +31,7 @@ llm-experiments/
 
 ## Setup
 ```bash
-git clone https://github.com/SriramVallabhaneni/llm-experiments.git
+git clone https://github.com/SriramVallabhaneni/llm-red-team-experiments.git
 cd llm-experiments
 python3 -m venv venv
 source venv/bin/activate
